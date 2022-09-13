@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.welcome{
+  background-color: rgb(145, 245, 245);
+  border: 2px solid rgb(89, 6, 71);
+  color: rgb(49, 4, 91);
+}
